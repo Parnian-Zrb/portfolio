@@ -23,9 +23,10 @@ const AboutMe = () => {
         <section className="about_me_section" id="about-me" ref={ref}>
             <h2>About Me</h2>
             <div>
-                <p>Hello there! My name is Parnian Zarbafian, and I am a passionate Full Stack developer with a strong affinity for crafting captivating user interfaces for websites. Welcome to my portfolio website!</p>
-                <p>I have always been fascinated by the seamless blend of art and technology, and this curiosity led me to embark on a journey into the world of web development. With each line of code, I strive to create visually appealing and user-friendly experiences that leave a lasting impact on visitors.</p>
-                <p>As a Full Stack Web developer, I possess a diverse set of skills and expertise in HTML, CSS, and JavaScript, which enables me to bring design concepts to life. I enjoy the process of transforming wireframes and mockups into pixel-perfect, responsive websites that provide an intuitive and engaging experience.</p>
+                <p> Hey there! I'm Parnian Zarbafian, a passionate Full Stack developer. Welcome to my portfolio!</p>
+                <p>I love blending art and technology in web development. </p>
+                <p> With skills in React, CSS, HTML, and JavaScript, I bring design concepts to life, creating visually appealing and user-friendly websites.</p>
+                <p> Check out my portfolio for a glimpse into the seamless fusion of creativity and coding expertise! </p>
             </div>
         </section>
     )
