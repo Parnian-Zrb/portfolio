@@ -51,8 +51,8 @@ const Card1 = () => {
             <p>A web-based application using React, a popular JavaScript library for building user interfaces.
                 CV Maker is designed to make it easy for users to create professional resumes and provides a range of features and options to help users create a resume that reflects their skills, experience, and qualifications.</p>
             <div className="project_link">
-                <a href="https://ebukathedeveloper.github.io/resume-builder-app/" target="_blank" rel="noopener noreferrer">Live Preview</a>
-                <a href="https://github.com/EbukaTheDeveloper/resume-builder-app" target="_blank" rel="noopener noreferrer">GitHub</a>
+                {/* <a href="https://ebukathedeveloper.github.io/resume-builder-app/" target="_blank" rel="noopener noreferrer">Live Preview</a>
+                <a href="https://github.com/EbukaTheDeveloper/resume-builder-app" target="_blank" rel="noopener noreferrer">GitHub</a> */}
             </div>
         </ article>
     )
@@ -96,8 +96,8 @@ const Card2 = () => {
                 The app allows users to enter their location or use their current location to retrieve real-time weather data from an API,
                 and displays the current weather conditions, temperature, wind speed, and other relevant information.</p>
             <div className="project_link">
-                <a href="https://weather-forecastweb.netlify.app/" target="_blank" rel="noopener noreferrer">Live Preview</a>
-                <a href="https://github.com/EbukaTheDeveloper/weather" target="_blank" rel="noopener noreferrer">Github</a>
+                {/* <a href="https://weather-forecastweb.netlify.app/" target="_blank" rel="noopener noreferrer">Live Preview</a>
+                <a href="https://github.com/EbukaTheDeveloper/weather" target="_blank" rel="noopener noreferrer">Github</a> */}
             </div>
         </ article>
     )
@@ -140,8 +140,8 @@ const Card3 = () => {
             <p>The site serves as an all-in-one platform, offering a wide range of furniture products,
                 from modern designs to timeless classics. With a focus on user-centric design and intuitive functionality, I aimed to provide a delightful and convenient shopping experience for customers. </p>
             <div className="project_link">
-                <a href="https://ebukathedeveloper.github.io/furniture-ecommerce-site/#/" target="_blank" rel="noopener noreferrer">Live Preview</a>
-                <a href="https://github.com/EbukaTheDeveloper/furniture-ecommerce-site" target="_blank" rel="noopener noreferrer">Github</a>
+                {/* <a href="https://ebukathedeveloper.github.io/furniture-ecommerce-site/#/" target="_blank" rel="noopener noreferrer">Live Preview</a>
+                <a href="https://github.com/EbukaTheDeveloper/furniture-ecommerce-site" target="_blank" rel="noopener noreferrer">Github</a> */}
             </div>
         </ article>
     )
@@ -182,8 +182,8 @@ const Card4 = () => {
             <p>A landing page built with the core languages of the web {'(HTML, JAVASCRIPT and CSS)'}. I added a scroll based animation with "intersection observer api" in javascript to make the page interactive. </p>
             <p class="figma_ui">A big thanks to <a href="https://figmaui4free.com/free-manage-satellite-internet-landing-page/" target="_blank" rel="noopener noreferrer">figmaui4free</a> for providing a free figma user interface file.</p>
             <div className="project_link">
-                <a href="https://ebukathedeveloper.github.io/satellite-internet-landing-page/" target="_blank" rel="noopener noreferrer">Live Preview</a>
-                <a href="https://github.com/EbukaTheDeveloper/satellite-internet-landing-page" target="_blank" rel="noopener noreferrer">Github</a>
+                {/* <a href="https://ebukathedeveloper.github.io/satellite-internet-landing-page/" target="_blank" rel="noopener noreferrer">Live Preview</a>
+                <a href="https://github.com/EbukaTheDeveloper/satellite-internet-landing-page" target="_blank" rel="noopener noreferrer">Github</a> */}
             </div>
 
         </ article>
