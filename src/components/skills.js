@@ -189,7 +189,7 @@ const SKILL_6 = () => {
     return (
         <div className="skill_bar_section">
             <div className="details">
-                <span>Webpack</span>
+                <span>NodeJs</span>
                 <span>60%</span>
             </div>
             <div className="bar">
@@ -219,7 +219,7 @@ const SKILL_7 = () => {
     return (
         <div className="skill_bar_section">
             <div className="details">
-                <span>Linux</span>
+                <span>TypeScript</span>
                 <span>40%</span>
             </div>
             <div className="bar">
